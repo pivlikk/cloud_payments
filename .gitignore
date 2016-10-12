@@ -12,3 +12,10 @@
 *.o
 *.a
 mkmf.log
+.idea/.name
+.idea/.rakeTasks
+.idea/cloud_payments.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
